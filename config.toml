@@ -6,7 +6,7 @@ copyright = "Copyright (c) 2008 - 2017, Steve Francia; all rights reserved."
 canonifyurls = true
 paginate = 3
 theme = "hugo-bootstrap"
-
+publishDir = "docs"
 disqusShortname = "xxxxxx"
 googleAnalytics = "UA-XXXXXXX-1"
 
