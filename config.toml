@@ -1,6 +1,6 @@
 baseurl = "http://x-camp.git"
 languageCode = "en-us"
-title = "Hugo Themes"
+title = "x-camp"
 author = "Steve Francia"
 copyright = "Copyright (c) 2008 - 2017, Steve Francia; all rights reserved."
 canonifyurls = true
