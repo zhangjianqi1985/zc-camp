@@ -1,4 +1,4 @@
-baseurl = "http://x-camp.git"
+baseurl = "https://github.com/FeiYuejiao/x-camp.git"
 languageCode = "en-us"
 title = "x-camp"
 author = "Steve Francia"
