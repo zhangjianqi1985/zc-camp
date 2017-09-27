@@ -1,4 +1,4 @@
-baseurl = "http://X-Camps.github.io"
+baseurl = "http://x-camp.git"
 languageCode = "en-us"
 title = "Hugo Themes"
 author = "Steve Francia"
