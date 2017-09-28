@@ -3,7 +3,7 @@ title = "About Hugo"
 date = "2014-04-09"
 +++
 
-You can see my custom about-me page [here](http://mmrath.com/page/about-me/)
+You can see my custom about-me page [here](http://x-camp.tk/page/about-me/)
 
 Hugo is a static site engine written in Go.
 
