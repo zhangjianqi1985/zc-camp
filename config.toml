@@ -10,6 +10,9 @@ publishDir = "docs"
 disqusShortname = "xxxxxx"
 googleAnalytics = "UA-XXXXXXX-1"
 
+[[permalinks]]
+    post = "／x-camp/content/post/x-camp加速营启动仪式报道.md"
+    
 [[menu.main]]
     name = "TAGS"
     pre = "<i class='fa fa-tags'></i>"
