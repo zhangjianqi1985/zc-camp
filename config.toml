@@ -9,7 +9,7 @@ theme = "hugo-bootstrap"
 publishDir = "docs"
 disqusShortname = "xxxxxx"
 googleAnalytics = "UA-XXXXXXX-1"
-
+contentdir = "content"
 [[permalinks]]
     post = "http://x-camp/content/post/x-camp加速营启动仪式报道.md"
 
