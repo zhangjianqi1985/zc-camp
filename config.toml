@@ -7,11 +7,12 @@ canonifyurls = true
 paginate = 3
 theme = "hugo-bootstrap"
 publishDir = "docs"
+contentdir = "content"
 disqusShortname = "xxxxxx"
 googleAnalytics = "UA-XXXXXXX-1"
-contentdir = "content"
+
 [[permalinks]]
-    post = "http://x-camp/content/post/x-camp加速营启动仪式报道.md"
+    post = "/:2017/:09/:x-camp加速营启动仪式报道"
 
 [[menu.main]]
     name = "TAGS"
