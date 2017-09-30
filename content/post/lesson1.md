@@ -10,7 +10,7 @@ banner = "http://x-camp/themes/hugo-bootstrap/images/screenshot.png"
 
 创业CEO们经过面试和选拔，带着15个创业项目进入清华x-lab加速营第二期的学习。由殷老师和陶老师带领着助教们认真准备，迎来了创业加速营第二期的第一节课————开营仪式。
 
-![Example image](/1.png=800*600)
+![Example image](/1.png=800x600)
 
 
 
