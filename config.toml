@@ -12,7 +12,7 @@ disqusShortname = "xxxxxx"
 googleAnalytics = "UA-XXXXXXX-1"
 
 [[permalinks]]
-    post = "/:2017/:09/:x-camp加速营启动仪式报道"
+    post = "/:2017/:09/:27:x-camp加速营启动仪式报道"
 
 [[menu.main]]
     name = "TAGS"
