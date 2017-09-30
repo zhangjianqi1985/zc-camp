@@ -5,15 +5,12 @@ categories = ["通知"]
 date = "2017-09-30"
 +++
 
-<<<<<<< HEAD:content/post/Atom,Github,Git,Hugo_download.md
-
 
 
 
 #**Atom, Github, Git,Hugo 的学习**
 =======
->>>>>>> 74a99c0ab27ef56f653fedaf669240aa92482974:content/post/Atom, Github, Git,Hugo_download.md
-![x-lab's logo](C:\x-lab\x-camp\static\atom_pitcure\图片1)
+![x-lab's logo]（/.D:\hugo\x-camp\static\atom_pitcure\图片1)
 ### Atom,Github,Git,Hugo的作用和下载。
 
 Atom,Github,Git,Hugo之间的联系
