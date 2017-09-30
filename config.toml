@@ -39,8 +39,8 @@ googleAnalytics = "UA-XXXXXXX-1"
     identifier = "about-me"
     url = "/page/about-me"
 
-<<<<<<< HEAD
-=======
+
+
 [[menu.main]]
 
         name = "学员名单"
@@ -60,14 +60,9 @@ googleAnalytics = "UA-XXXXXXX-1"
     weight = -120
     identifier = "license"
     url = "/page/license/"
->>>>>>> 7711ffdef31436db916507c87aefe14291d0328c
 
 [params.widgets]
   recent_articles = true
   categories = true
   tags = true
   tag_cloud = false
-
-
-[params.banner]
-  img src = "/logo.png"
