@@ -18,7 +18,7 @@ date = "2017-09-30"
 
 Atom,Github,Git,Hugo之间的联系
 
-![样本](/.图片2)
+![样本](/.D:\hugo\x-camp\static\atom_pitcure\图片2)
 ### Atom是什么？
 
 
