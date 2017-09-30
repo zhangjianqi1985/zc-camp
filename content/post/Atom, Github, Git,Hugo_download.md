@@ -1,13 +1,9 @@
 +++
 title = "Atom, Github, Git,Hugo 的学习"
 description = "方便大家了解和下载软件使用"
-tags = ["启动仪式"]
 categories = ["课程"]
 date = "2017-09-30"
 +++
-
-
-
 
 
 #**Atom, Github, Git,Hugo 的学习和下载**
