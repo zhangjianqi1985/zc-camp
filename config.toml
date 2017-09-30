@@ -33,12 +33,34 @@ googleAnalytics = "UA-XXXXXXX-1"
 
 [[menu.main]]
 
-    name = "ABOUT ME"
+    name = "关于我们"
     pre = "<i class='fa fa-info-circle'></i>"
     weight = -90
     identifier = "about-me"
     url = "/page/about-me"
 
+<<<<<<< HEAD
+=======
+[[menu.main]]
+
+        name = "学员名单"
+        pre = "<i class='fa fa-info-circle'></i>"
+        weight = -90
+        identifier = "namelist"
+        url = "/page/namelist"
+
+[[menu.footer]]
+    name = "DISCLAIMER"
+    weight = -110
+    identifier = "disclaimer"
+    url = "/page/disclaimer/"
+
+[[menu.footer]]
+    name = "LICENSE"
+    weight = -120
+    identifier = "license"
+    url = "/page/license/"
+>>>>>>> 7711ffdef31436db916507c87aefe14291d0328c
 
 [params.widgets]
   recent_articles = true
