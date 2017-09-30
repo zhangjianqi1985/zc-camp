@@ -1,4 +1,4 @@
-[submodule "Feifei.github.io"]
-	path = Feifei.github.io
-	url = https://github.com/FeiYuejiao/Feifei.github.io.git
+[submodule "x-camp"]
+	path = x-camp.io
+	url = https://github.com/FeiYuejiao/x-camp.git
 	branch = master
