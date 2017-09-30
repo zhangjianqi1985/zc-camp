@@ -42,4 +42,4 @@ banner = "http://x-camp/themes/hugo-bootstrap/images/screenshot.png"
 口号：文艺范，不成范
 * * *
 
-![avatar(img_5872.jpg)
+![](/static/1.jpg)
