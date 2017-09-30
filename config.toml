@@ -11,8 +11,6 @@ contentdir = "content"
 disqusShortname = "xxxxxx"
 googleAnalytics = "UA-XXXXXXX-1"
 
-[[permalinks]]
-    post = ""
 
 [[menu.main]]
     name = "TAGS"
