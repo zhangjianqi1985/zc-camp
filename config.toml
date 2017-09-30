@@ -1,4 +1,4 @@
-baseurl = "https://github.com/FeiYuejiao/x-camp.git"
+baseurl = "https://x-camp.tk"
 languageCode = "en-us"
 title = "x-camp"
 author = "Steve Francia"
@@ -6,13 +6,13 @@ copyright = "Copyright (c) 2008 - 2017, Steve Francia; all rights reserved."
 canonifyurls = true
 paginate = 3
 theme = "hugo-bootstrap"
-publishDir = "docs"
+publishDir = "public"
 contentdir = "content"
 disqusShortname = "xxxxxx"
 googleAnalytics = "UA-XXXXXXX-1"
 
 [[permalinks]]
-    post = "/:2017/:09/:27:x-camp加速营启动仪式报道"
+    post = ""
 
 [[menu.main]]
     name = "TAGS"
@@ -29,6 +29,7 @@ googleAnalytics = "UA-XXXXXXX-1"
     url = "/categories/"
 
 [[menu.main]]
+
     name = "ABOUT ME"
     pre = "<i class='fa fa-info-circle'></i>"
     weight = -90
