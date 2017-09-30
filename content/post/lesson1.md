@@ -4,10 +4,11 @@ description = "this is a new start"
 tags = ["启动仪式"]
 categories = ["课程"]
 date = "2017-09-27"
-![logo](/logo.png)
+banner = "/static/logo.png"
+
 +++
 
-
+![logo](/logo.png)
 创业CEO们经过面试和选拔，带着15个创业项目进入清华x-lab加速营第二期的学习。由殷老师和陶老师带领着助教们认真准备，迎来了创业加速营第二期的第一节课————开营仪式。
 
 
