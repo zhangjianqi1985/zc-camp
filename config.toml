@@ -28,11 +28,19 @@ googleAnalytics = "UA-XXXXXXX-1"
 
 [[menu.main]]
 
-    name = "ABOUT ME"
+    name = "关于我们"
     pre = "<i class='fa fa-info-circle'></i>"
     weight = -90
     identifier = "about-me"
     url = "/page/about-me"
+
+[[menu.main]]
+
+        name = "学员名单"
+        pre = "<i class='fa fa-info-circle'></i>"
+        weight = -90
+        identifier = "namelist"
+        url = "/page/namelist"
 
 [[menu.footer]]
     name = "DISCLAIMER"
