@@ -10,7 +10,7 @@ date = "2017-09-30"
 
 
 
-#**Atom, Github, Git,Hugo 的学习和下载**
+#**Atom, Github, Git,Hugo 的学习**
 ![x-lab's logo](C:\x-lab\x-camp\static\atom_pitcure\图片1)
 ##
 Atom,Github,Git,Hugo的作用和下载。
