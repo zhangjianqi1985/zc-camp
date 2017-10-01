@@ -8,7 +8,7 @@ date = "2017-10-01"
 
 
 
-![x-lab's logo](/.D:\hugo\x-camp\static\atom_pitcure\图片1)
+![x-lab's logo]<img src="/图片1" width="400">
 ### Atom,Github,Git,Hugo的作用和下载。
 
 
