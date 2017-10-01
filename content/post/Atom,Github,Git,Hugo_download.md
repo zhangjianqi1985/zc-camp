@@ -2,13 +2,13 @@
 title = "Atom,Github,Git,Hugo的学习"
 description = "方便大家了解和下载软件使用"
 categories = ["通知"]
-date = "2017-09-30"
+date = "2017-10-01"
 +++
 
 
 
 
-![x-lab's logo]()/.D:\hugo\x-camp\static\atom_pitcure\图片1)
+![x-lab's logo](/.D:\hugo\x-camp\static\atom_pitcure\图片1)
 ### Atom,Github,Git,Hugo的作用和下载。
 
 
