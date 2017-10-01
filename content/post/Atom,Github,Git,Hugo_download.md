@@ -8,16 +8,16 @@ date = "2017-10-01"
 
 
 
-![x-lab's logo]<img src="/图片1" width="400">
+![x-lab's logo]<img src="/h1.png" width="400">
 ### Atom,Github,Git,Hugo的作用和下载。
 
 
-![样本](/.D:\hugo\x-camp\static\atom_pitcure\图片2)
+![样本]<img src="/图2.png" width="400">
 ### Atom是什么？
 
 
-![样本](/.图片3)
-![样本](/.图片4)
+![样本]<img src="/图3.png" width="400">
+![样本]<img src="/图4.png" width="400">
 
 
 ### Atom的下载
