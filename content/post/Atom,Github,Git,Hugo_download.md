@@ -5,38 +5,31 @@ categories = ["通知"]
 date = "2017-09-30"
 +++
 
-### Atom,Github,Git,Hugo的作用和下载。
+Atom,Github,Git,Hugo的作用和下载。
 
-Atom,Github,Git,Hugo之间的联系
 
-![样本](/atom_pitcure/pic2)
 ### Atom是什么？
 
+![样本](/atom_pitcure/pic3.png)
 
-### Atom
-![样本](/atom_pitcure/pic3)
-![样本](/atom_pitcure\pic4)
-
+<img src="/atom_pitcure/pic4.png" width="600">
 
 ### Atom的下载
-![样本](/atom_pitcure/pic5)
+
+<img src="/atom_pitcure/pic5.png" width="600">
 
 
-![样本](/atom_pitcure/pic2)
 ### Github是什么?
 
-
-### 一个网站
 GitHub 使用 Git 作为版本控制系统（version control system）提供在线源码托管的服务。同时是一个有社交功能的开发者社区。
 
 SNS + Code Host
 
 
 ### GIT是什么
-![样本](/atom_pitcurepic2)
 
+![样本](/atom_pitcure/pic8.png)
 
-### GIT
 1.开源的代码管理软件
 
 2.分布式版本控制系统
@@ -50,7 +43,7 @@ GIT使用好处：
       -而git可以方便地在本地进行版本管
 
 
-![样本](/atom_pitcure/pic8)
+
 
 下载地址： https://msysgit.github.com
 
@@ -58,25 +51,36 @@ GIT使用好处：
 
 
 ### Hugo是什么？
-![样本](/atom_pitcure/pic2)
 
-![样本](/atom_pitcure/pic6)
+![样本](/atom_pitcure/pic6.png)
+
 Hugo是什么？
+
 Hugo是一个通用的网站框架。
+
 Hugo是一个 静态网站生成器。
+
 
 Hugod的作用？
 Hugo的目的是为网站的最终用户提供最佳的浏览体验和网站作者的理想创作体验。
 
 
 ### Hugo的下载
+
 Step 1: Install Hugo
+
 Step 2: Create a New Site
+
 Step 3: Add a Theme
+
 Step 4: Add Some Content
+
 Step 5: Customize the Theme
+
 Recapitulation
+
 下载地址：https://gohugo.io/getting-started/quick-start/(网站上详细介绍下载流程)
+
 
 
 ### Atom, Github, Git,Hugo 之间的联系
