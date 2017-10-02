@@ -9,20 +9,20 @@ date = "2017-09-30"
 
 Atom,Github,Git,Hugo之间的联系
 
-![样本](/atom_pitcure/pic2)
+![样本](C:\x-lab\x-camp\static\atom_pitcure\图片2)
 ### Atom是什么？
 
 
 ### Atom
-![样本](/atom_pitcure/pic3)
-![样本](/atom_pitcure\pic4)
+![样本](C:\x-lab\x-camp\static\atom_pitcure\图片3)
+![样本](C:\x-lab\x-camp\static\atom_pitcure\图片4)
 
 
 ### Atom的下载
-![样本](/atom_pitcure/pic5)
+![样本](C:\x-lab\x-camp\static\atom_pitcure\图片5)
 
 
-![样本](/atom_pitcure/pic2)
+![样本](C:\x-lab\x-camp\static\atom_pitcure\图片2)
 ### Github是什么?
 
 
@@ -33,7 +33,7 @@ SNS + Code Host
 
 
 ### GIT是什么
-![样本](/atom_pitcurepic2)
+![样本](C:\x-lab\x-camp\static\atom_pitcure\图片2)
 
 
 ### GIT
@@ -50,7 +50,7 @@ GIT使用好处：
       -而git可以方便地在本地进行版本管
 
 
-![样本](/atom_pitcure/pic8)
+![样本](C:\x-lab\x-camp\static\atom_pitcure\图片8)
 
 下载地址： https://msysgit.github.com
 
@@ -58,9 +58,9 @@ GIT使用好处：
 
 
 ### Hugo是什么？
-![样本](/atom_pitcure/pic2)
+![样本](C:\x-lab\x-camp\static\atom_pitcure\图片2)
 
-![样本](/atom_pitcure/pic6)
+![样本](C:\x-lab\x-camp\static\atom_pitcure\图片6)
 Hugo是什么？
 Hugo是一个通用的网站框架。
 Hugo是一个 静态网站生成器。
