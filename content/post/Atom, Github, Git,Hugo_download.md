@@ -5,7 +5,6 @@ categories = ["通知"]
 date = "2017-09-30"
 +++
 
-![x-lab's logo](C:\x-lab\x-camp\static\atom_pitcure\图片1)
 ### Atom,Github,Git,Hugo的作用和下载。
 
 Atom,Github,Git,Hugo之间的联系
