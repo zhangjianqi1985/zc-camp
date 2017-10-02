@@ -1,7 +1,7 @@
 +++
 title = "x-camp加速营启动仪式报道"
 description = "创业CEO们经过面试和选拔，带着15个创业项目进入清华x-lab加速营第二期的学习..."
-categories = ["报道"]
+categories = "报道"
 date = "2017-09-27"
 +++
 
