@@ -1,5 +1,5 @@
 +++
-title = "Atom, Github, Git,Hugo 的学习"
+title = "Atom,Github,Git,Hugo 的学习"
 description = "方便大家了解和下载软件使用"
 categories = ["通知"]
 date = "2017-09-30"
@@ -30,7 +30,7 @@ SNS + Code Host
 
 ### GIT是什么
 
-![样本](/atom_pitcure/pic8.png)
+![样本](/atom_pitcure/图片8.png)
 
 1.开源的代码管理软件
 
