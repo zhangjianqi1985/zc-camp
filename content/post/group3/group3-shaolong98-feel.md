@@ -2,7 +2,7 @@
 title = "group3-姜绍龙-学员心得"
 draft = "false"
 description = "上课情况，作业情况，我的反馈。。。"
-categories = ["学员心得"]
+categories = ["experience"]
 date = "2017-10-07"
 +++
 
