@@ -1,7 +1,7 @@
 +++
 title = "学习规定"
 date = "2017-09-26"
-categories = "通知"
+categories = ["notice"]
 +++
 
 ### 学习规定：
