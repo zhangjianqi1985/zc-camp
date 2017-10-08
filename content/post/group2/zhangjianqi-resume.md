@@ -4,7 +4,6 @@ draft = "false"
 description = "张建琦"
 categories = ["resume"]
 date = "2017-10-08"
-tags = "国际互联三兄弟"
 +++
 
 <img src="/post/group2/head-zhangjianqi.png" width="200" align="right" hspace="20" vspace="2" />
