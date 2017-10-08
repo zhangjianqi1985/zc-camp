@@ -1,7 +1,7 @@
 ---
 title: "group2-张建琦-学员简历"
 date: 2017-10-08T09:35:00+08:00
-draft: true
+draft: false
 Categories: ["学员简历"]
 ---
 
