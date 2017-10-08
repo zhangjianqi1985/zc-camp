@@ -2,7 +2,7 @@
 title = "group3-姜绍龙-学员简历"
 draft = "false"
 description = "姜绍龙，1998-2005年就读于清华自动化系，硕士学位，超过10年的“IT-移动互联网”领域工作及多年创业经验。。。"
-categories = ["xueyuanjianli"]
+categories = ["resume"]
 date = "2017-10-07"
 +++
 
