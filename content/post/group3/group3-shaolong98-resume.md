@@ -6,7 +6,7 @@ categories = ["学员简历"]
 date = "2017-10-07"
 +++
 
-<img src="/post/goup3/head-shaolong.png" width="200" align="right" hspace="20" vspace="0" />
+<img src="/post/group3/head-shaolong.png" width="200" align="right" hspace="20" vspace="0" />
 ## 姜绍龙
 --1998-2005年就读于清华自动化系，硕士学位；<br/>
 --10年以上“IT-移动互联网”产品研发工作及创业经验，涵盖社交、手游、O2O、移动医疗领域；<br/>
