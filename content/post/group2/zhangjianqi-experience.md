@@ -16,9 +16,9 @@ date = "2017-10-08"
 
 虽然我是技术出身，但本次作业涉及的工具也是第一次用到，我首先系统的学习了相关工具，认真的看了费助教的视频。<br/>
 之后我按照教程一步步搭建网站的操作，期间遇到了若干的技术问题，包括网速问题、域名解析问题和网站乱码问题等，但经过反复的研究攻克了各类难题，终于完成了我的个人网站搭建工作。<br/>
-<p>智慧外贸网站：<a style="cursor:hand;" target="_blank" href="http://zjq-x-camp.tk">http://zjq-x-camp.tk</a></p>
-<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/zhangjainqi-resume/">我的简历-张建琦</a></p>
-<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/zhangjainqi-experience/">第一课学员心得-张建琦</a></p>
+<p>智慧外贸网站：<a style="cursor:hand;"  href="http://zjq-x-camp.tk">http://zjq-x-camp.tk</a></p>
+<p><a style="cursor:hand;"  href="http://x-camp.tk/post/group2/zhangjainqi-resume/">我的简历-张建琦</a></p>
+<p><a style="cursor:hand;"  href="http://x-camp.tk/post/group2/zhangjainqi-experience/">第一课学员心得-张建琦</a></p>
 
 最后，我按照老师的要求，完成了智慧外贸项目独特价值、客户画像、用户电子书的整理工作，用工具上传到github指点位置上了。
 
