@@ -34,7 +34,7 @@ title = "group3-名字-学员简历"
 draft = "false"
 description = "对自己的一些简单的描述"
 categories = ["resume"]
-date = "2017-10-07"
+date = "2017-10-09"
 +++**
 
 ##第五步：保存，commit之后，就可以push了
