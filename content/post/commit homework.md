@@ -37,7 +37,7 @@ categories = ["resume"]
 date = "2017-10-09"
 +++**
 
-##第五步：保存，commit之后，就可以push了
+###第五步：保存，commit之后，就可以push了
 
 commit
 ![样本](/atom_pitcure/捕获4.png)
