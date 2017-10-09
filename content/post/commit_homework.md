@@ -1,10 +1,9 @@
 +++
 title = "关于学员如何发布文章到x-camp.tk的简要说明"
 description = "请学员务必阅读，并完成作业"
-categories = ["Notice"]
-date = "2017-20-09"
+categories = ["notice"]
+date = "2017-10-09"
 banner = "/logo.png"
-
 +++
 
 ##
