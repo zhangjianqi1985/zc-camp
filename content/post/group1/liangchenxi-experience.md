@@ -14,9 +14,9 @@ date = "2017-10-08"
 
 作业看似很难，其实静心去钻研，却发现十分简单。很多难点其实都停留在细节上，把握好细节，有足够的耐心去寻找答案，问题也都迎刃而解。
 我是目标导向者，认为能完美的达成目标就是胜利。很多过程并没有完全照搬老师所教授的方式与方法，更多的是融合。<br/>
-<p>华怡生物网站：<a style="cursor:hand;" target="_blank" href="http://zjq-x-camp.tk">http://a.crtaer.cn</a></p>
-<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/zhangjainqi-resume/">我的简历-梁晨曦</a></p>
-<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/zhangjainqi-experience/">第一课学员心得-梁晨曦</a></p>
+<p>华怡生物网站：<a style="cursor:hand;" target="_blank" href="http://a.crtaer.cn">http://a.crtaer.cn</a></p>
+<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group1/liagnchenxi-resume/">我的简历-梁晨曦</a></p>
+<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group1/liangchenxi-experience/">第一课学员心得-梁晨曦</a></p>
 
 最后，我按照老师的要求，完成了智慧外贸项目独特价值、客户画像、用户电子书的整理工作，用工具上传到github指点位置上了。
 
