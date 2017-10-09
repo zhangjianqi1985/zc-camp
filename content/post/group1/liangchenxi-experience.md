@@ -1,31 +1,29 @@
 +++
 title = "group1-梁晨曦-Lesson1心得"
 draft = "false"
-description = "上课情况，作业情况，我的反馈"
+description = "个人学习心得-创业第一课"
 categories = ["experience"]
 date = "2017-10-08"
 +++
 
 ### 上课情况
-
-殷老师和陶老师分别做了开场白并提出了课程要求，每位同学做了两分钟的项目介绍，同学们进行了两两相互认识环节，之后同学们进行了最有价值项目投票，我的智慧外贸项目有幸脱颖而出，在进行项目分组后，我当选了组长。<br/>
-最后两位老师做了精彩的创业指导知识分享。
-
+“别具一格”这个关键字让我在第一堂课中留下了深深的烙印。上课气氛十分融洽与小伙伴们互相交流，让我开阔了不少视野。
+两位老师讲课内容也通俗易懂，十分适用。
 
 ### 作业情况
 
-虽然我是技术出身，但本次作业涉及的工具也是第一次用到，我首先系统的学习了相关工具，认真的看了费助教的视频。<br/>
-之后我按照教程一步步搭建网站的操作，期间遇到了若干的技术问题，包括网速问题、域名解析问题和网站乱码问题等，但经过反复的研究攻克了各类难题，终于完成了我的个人网站搭建工作。<br/>
-<p>智慧外贸网站：<a style="cursor:hand;" target="_blank" href="http://zjq-x-camp.tk">http://zjq-x-camp.tk</a></p>
-<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/zhangjainqi-resume/">我的简历-张建琦</a></p>
-<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/zhangjainqi-experience/">第一课学员心得-张建琦</a></p>
+作业看似很难，其实静心去钻研，却发现十分简单。很多难点其实都停留在细节上，把握好细节，有足够的耐心去寻找答案，问题也都迎刃而解。
+我是目标导向者，认为能完美的达成目标就是胜利。很多过程并没有完全照搬老师所教授的方式与方法，更多的是融合。<br/>
+<p>华怡生物网站：<a style="cursor:hand;" target="_blank" href="http://zjq-x-camp.tk">http://a.crtaer.cn</a></p>
+<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/zhangjainqi-resume/">我的简历-梁晨曦</a></p>
+<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/zhangjainqi-experience/">第一课学员心得-梁晨曦</a></p>
 
 最后，我按照老师的要求，完成了智慧外贸项目独特价值、客户画像、用户电子书的整理工作，用工具上传到github指点位置上了。
 
 
 ### 我的反馈
 
-第一次创业加速营课程让我记忆犹新，非常荣幸与大家一起学习和成长，主要反馈有三：<br/>
-一是跟老师学习了很多新的知识，开阔了的视野。<br/>
-二是让我认识一群志同道合的创业伙伴，可以互相学习，共同进步。<br/>
-三是老师留的作业给我一次深刻的历练，完成本次作业确实费了不少劲，犹如创业路上荆棘密布，唯有坚韧不拔的毅力才能走向胜利的彼岸。
+"协作、借鉴、另辟蹊径"这是我第一堂课中获得的3个收获，这次的作业就像创业：
+1.是需要协作与配合才能完成的。
+2.创新一定先借鉴，其实很多捷径与弯路，前者早就走过。
+3.想要达成目标，路不止有一条。
