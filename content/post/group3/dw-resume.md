@@ -1,5 +1,5 @@
 ﻿+++
-title = "group3-邓伟-简历"
+title = "group3-邓伟-学员简历"
 draft = "false"
 description = "Dengwei98"
 tags = ["resume", "x-camp"]
