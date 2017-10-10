@@ -17,9 +17,9 @@ date = "2017-10-10"
 ### 作业情况
 
 对于我这个软件技术门外汉，经过长假几天的研究，终于完成了老师留的各项作业。<br/>
-<p>个人网站：<a style="cursor:hand;" target="_blank" href=" ">http://xg-x-camp.tk</ a></p >
-<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/xugang-resume/">我的简历-徐岗</ a></p >
-<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/xugang-experience/">第一课学员心得-徐岗</ a></p >
+<p>个人网站：<a style="cursor:hand;" target="_blank" href=" ">http://xg-x-camp.tk</a></p >
+<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/xugang-resume/">我的简历-徐岗</a></p >
+<p><a style="cursor:hand;" target="_blank" href="http://x-camp.tk/post/group2/xugang-experience/">第一课学员心得-徐岗</a></p >
 
 最后，我按照作业要求，将垃圾处理项目独特价值、客户画像、用户电子书用工具上传到github指点位置上。
 
